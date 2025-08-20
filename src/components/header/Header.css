@@ -1,0 +1,36 @@
+.hero {
+    font-family: 'Poppins', sans-serif;
+}
+
+img {
+    max-width: 100%;
+    display: inline-block;
+}
+
+.banner-flex {
+    grid-column-gap: 2.5vw;
+    grid-row-gap: 2.5vw;
+    flex-flow: column;
+    width: 25.7vw;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: 15vw;
+    display: flex;
+}
+
+.banner-img {
+    z-index: 1;
+    pointer-events: none;
+    height: 100%;
+    position: absolute;
+    inset: auto 44vw -3vw auto;
+}
+
+/* .title-left-img {
+    mix-blend-mode: darken;
+    transform-style: preserve-3d;
+    width: 12vw;
+    position: absolute;
+    inset: -3.3vw 1.1vw auto auto;
+    transform: rotateX(0) rotateY(180deg) rotateZ(240deg);
+} */

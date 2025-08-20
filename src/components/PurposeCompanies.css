@@ -123,8 +123,9 @@
 .logo-pill:hover {
   transform: translateY(-4px);
   box-shadow: var(--shadow-lg);
-  border-color: var(--color-primary);
-  background: var(--color-bg-card);
+  border-color: black;
+  background: black;
+  color: white;
 }
 
 /* Section Styles */
@@ -188,7 +189,9 @@
 .pillar:hover {
   transform: translateY(-4px);
   box-shadow: var(--shadow-lg);
-  border-color: var(--color-primary);
+  border-color: black;
+  background: black;
+  color: white;
 }
 
 .pillar h3 {
@@ -229,7 +232,9 @@
 .story:hover {
   transform: translateX(8px);
   box-shadow: var(--shadow-lg);
-  border-color: var(--color-primary);
+  border-color: black;
+  background: black;
+  color: white;
 }
 
 .story .meta {
@@ -274,8 +279,9 @@
 .value:hover {
   transform: scale(1.05);
   box-shadow: var(--shadow-lg);
-  border-color: var(--color-primary);
-  background: var(--color-bg-card);
+  border-color: black;
+  background: black;
+  color: white;
 }
 
 /* Contact Section */
