@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+dist/
+build/
+
+# Generated files
+*.min.js
+*.min.css
+
+# Package files
+package-lock.json
+yarn.lock
+
+# Config files
+*.config.js
+*.config.ts
+
+# Other
+.git/
+.vscode/
+.idea/
